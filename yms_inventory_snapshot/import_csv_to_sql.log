@@ -1,0 +1,49 @@
+2025-02-01 07:48:49,903 INFO: Executing playwright_download_logging3.py script!
+2025-02-01 07:48:50,483 INFO: Launching browser...
+2025-02-01 07:48:50,811 INFO: Navigating to login page...
+2025-02-01 07:48:54,572 INFO: Filling in login credentials...
+2025-02-01 07:48:54,745 INFO: Logging in...
+2025-02-01 07:49:15,527 INFO: Downloading CSV...
+2025-02-01 07:49:16,095 INFO: File downloaded to: C:\Integrations\yms_inventory_snapshot\2025-02-01T12_49_01.551Z_current_inventory.csv
+2025-02-01 07:49:16,095 INFO: Logging out...
+2025-02-01 07:49:19,291 INFO: Browser closed.
+2025-02-01 07:49:19,291 INFO: Importing CSV to SQL...
+2025-02-01 07:49:19,291 INFO: Connecting to the SQL Server...
+2025-02-01 07:49:19,336 INFO: Clearing the YMS_InventorySnapshot table...
+2025-02-01 07:49:19,353 INFO: Rows in YMS_InventorySnapshot after delete: 0
+2025-02-01 07:49:19,353 INFO: Reading the CSV file: C:\Integrations\yms_inventory_snapshot\2025-02-01T12_49_01.551Z_current_inventory.csv
+2025-02-01 07:49:19,369 ERROR: An error occurred during the import process: Length mismatch: Expected axis has 33 elements, new values have 32 elements
+Traceback (most recent call last):
+  File "c:\Integrations\yms_inventory_snapshot\import_csv_to_sql.py", line 42, in import_csv_to_sql
+    df.columns = [
+    ^^^^^^^^^^
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\generic.py", line 6313, in __setattr__
+    return object.__setattr__(self, name, value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "properties.pyx", line 69, in pandas._libs.properties.AxisProperty.__set__
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\generic.py", line 814, in _set_axis
+    self._mgr.set_axis(axis, labels)
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\internals\managers.py", line 238, in set_axis
+    self._validate_set_axis(axis, new_labels)
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\internals\base.py", line 98, in _validate_set_axis
+    raise ValueError(
+ValueError: Length mismatch: Expected axis has 33 elements, new values have 32 elements
+2025-02-01 07:49:19,369 ERROR: An error occurred: Length mismatch: Expected axis has 33 elements, new values have 32 elements
+Traceback (most recent call last):
+  File "c:\Integrations\yms_inventory_snapshot\playwright_download_logging3.py", line 79, in run
+    import_csv_to_sql(download_path)  # Correct function call
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Integrations\yms_inventory_snapshot\import_csv_to_sql.py", line 42, in import_csv_to_sql
+    df.columns = [
+    ^^^^^^^^^^
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\generic.py", line 6313, in __setattr__
+    return object.__setattr__(self, name, value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "properties.pyx", line 69, in pandas._libs.properties.AxisProperty.__set__
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\generic.py", line 814, in _set_axis
+    self._mgr.set_axis(axis, labels)
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\internals\managers.py", line 238, in set_axis
+    self._validate_set_axis(axis, new_labels)
+  File "C:\Integrations\yms_inventory_snapshot\venv\Lib\site-packages\pandas\core\internals\base.py", line 98, in _validate_set_axis
+    raise ValueError(
+ValueError: Length mismatch: Expected axis has 33 elements, new values have 32 elements

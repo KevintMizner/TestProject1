@@ -1,0 +1,3135 @@
+Running with Python: C:\Integrations\BradfordWhite\venv\Scripts\python.exe
+Watching folder: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926061589N.csv
+Processed payload: {
+  "executionId": "63237",
+  "deliveryId": "926061589",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926061589N.json
+API response:
+{
+  "executionId": "63237",
+  "deliveryId": "926061589",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962160C.csv
+Processed payload: {
+  "executionId": "63237",
+  "deliveryId": "925962160",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962160C.json
+API response:
+{
+  "executionId": "63237",
+  "deliveryId": "925962160",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962144C.csv
+Processed payload: {
+  "executionId": "63237",
+  "deliveryId": "925962144",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962144C.json
+API response:
+{
+  "executionId": "63237",
+  "deliveryId": "925962144",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036895S.csv
+Processed payload: {
+  "executionId": "63237",
+  "deliveryId": "926036895",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036895S.json
+API response:
+{
+  "executionId": "63237",
+  "deliveryId": "926036895",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926321622N.csv
+Processed payload: {
+  "executionId": "63243",
+  "deliveryId": "926321622",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926321622N.json
+API response:
+{
+  "executionId": "63243",
+  "deliveryId": "926321622",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926321623N.csv
+Processed payload: {
+  "executionId": "63243",
+  "deliveryId": "926321623",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926321623N.json
+API response:
+{
+  "executionId": "63243",
+  "deliveryId": "926321623",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962144C.csv
+Processed payload: {
+  "executionId": "63243",
+  "deliveryId": "925962144",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962144C.json
+API response:
+{
+  "executionId": "63243",
+  "deliveryId": "925962144",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926059404C.csv
+Processed payload: {
+  "executionId": "63267",
+  "deliveryId": "926059404",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926059404C.json
+API response:
+{
+  "executionId": "63267",
+  "deliveryId": "926059404",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962156C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "925962156",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962156C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "925962156",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926143557C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926143557",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926143557C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926143557",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149032C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926149032",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149032C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926149032",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926142662C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926142662",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926142662C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926142662",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144229C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926144229",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144229C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926144229",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926140721C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926140721",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926140721C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926140721",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926198426C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "926198426",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926198426C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "926198426",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947124C.csv
+Processed payload: {
+  "executionId": "63272",
+  "deliveryId": "925947124",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947124C.json
+API response:
+{
+  "executionId": "63272",
+  "deliveryId": "925947124",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926323178N.csv
+Processed payload: {
+  "executionId": "63274",
+  "deliveryId": "926323178",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926323178N.json
+API response:
+{
+  "executionId": "63274",
+  "deliveryId": "926323178",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926028482C.csv
+Processed payload: {
+  "executionId": "63274",
+  "deliveryId": "926028482",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926028482C.json
+API response:
+{
+  "executionId": "63274",
+  "deliveryId": "926028482",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947124C.csv
+Processed payload: {
+  "executionId": "63274",
+  "deliveryId": "925947124",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947124C.json
+API response:
+{
+  "executionId": "63274",
+  "deliveryId": "925947124",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137596N.csv
+Processed payload: {
+  "executionId": "63286",
+  "deliveryId": "926137596",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137596N.json
+API response:
+{
+  "executionId": "63286",
+  "deliveryId": "926137596",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926215365N.csv
+Processed payload: {
+  "executionId": "63286",
+  "deliveryId": "926215365",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926215365N.json
+API response:
+{
+  "executionId": "63286",
+  "deliveryId": "926215365",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926146359N.csv
+Processed payload: {
+  "executionId": "63286",
+  "deliveryId": "926146359",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926146359N.json
+API response:
+{
+  "executionId": "63286",
+  "deliveryId": "926146359",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259266N.csv
+Processed payload: {
+  "executionId": "63286",
+  "deliveryId": "926259266",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259266N.json
+API response:
+{
+  "executionId": "63286",
+  "deliveryId": "926259266",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259265N.csv
+Processed payload: {
+  "executionId": "63286",
+  "deliveryId": "926259265",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259265N.json
+API response:
+{
+  "executionId": "63286",
+  "deliveryId": "926259265",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926076097N.csv
+Processed payload: {
+  "executionId": "63290",
+  "deliveryId": "926076097",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926076097N.json
+API response:
+{
+  "executionId": "63290",
+  "deliveryId": "926076097",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926211091N.csv
+Processed payload: {
+  "executionId": "63290",
+  "deliveryId": "926211091",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926211091N.json
+API response:
+{
+  "executionId": "63290",
+  "deliveryId": "926211091",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926163741X.csv
+Processed payload: {
+  "executionId": "63651",
+  "deliveryId": "926163741",
+  "processStatus": 0,
+  "errorMessage": "X - Cancelled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926163741X.json
+API response:
+{
+  "executionId": "63651",
+  "deliveryId": "926163741",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926059401C.csv
+Processed payload: {
+  "executionId": "63652",
+  "deliveryId": "926059401",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926059401C.json
+API response:
+{
+  "executionId": "63652",
+  "deliveryId": "926059401",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 2] The system cannot find the file specified
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992457C.csv
+Processed payload: {
+  "executionId": "63652",
+  "deliveryId": "925992457",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992457C.json
+API response:
+{
+  "executionId": "63652",
+  "deliveryId": "925992457",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925992457C.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925821802N.csv
+Processed payload: {
+  "executionId": "63656",
+  "deliveryId": "925821802",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925821802N.json
+API response:
+{
+  "executionId": "63656",
+  "deliveryId": "925821802",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925821802N.csv
+Processed payload: {
+  "executionId": "63658",
+  "deliveryId": "925821802",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925821802N.json
+API response:
+{
+  "executionId": "63658",
+  "deliveryId": "925821802",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 2] The system cannot find the file specified: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925821802N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926227723N.csv
+Processed payload: {
+  "executionId": "63658",
+  "deliveryId": "926227723",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926227723N.json
+API response:
+{
+  "executionId": "63658",
+  "deliveryId": "926227723",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962163S.csv
+Processed payload: {
+  "executionId": "63658",
+  "deliveryId": "925962163",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962163S.json
+API response:
+{
+  "executionId": "63658",
+  "deliveryId": "925962163",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925795769N.csv
+Processed payload: {
+  "executionId": "63662",
+  "deliveryId": "925795769",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925795769N.json
+API response:
+{
+  "executionId": "63662",
+  "deliveryId": "925795769",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926292406N.csv
+Processed payload: {
+  "executionId": "63662",
+  "deliveryId": "926292406",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926292406N.json
+API response:
+{
+  "executionId": "63662",
+  "deliveryId": "926292406",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925795770N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925795770N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677506N.csv
+Processed payload: {
+  "executionId": "63663",
+  "deliveryId": "925677506",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677506N.json
+API response:
+{
+  "executionId": "63663",
+  "deliveryId": "925677506",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677507N.csv
+Processed payload: {
+  "executionId": "63663",
+  "deliveryId": "925677507",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677507N.json
+API response:
+{
+  "executionId": "63663",
+  "deliveryId": "925677507",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677510N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925677510N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926076098L.csv
+Processed payload: {
+  "executionId": "63666",
+  "deliveryId": "926076098",
+  "processStatus": 0,
+  "errorMessage": "L - On Loading Dock"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926076098L.json
+API response:
+{
+  "executionId": "63666",
+  "deliveryId": "926076098",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925967553X.csv
+Processed payload: {
+  "executionId": "63666",
+  "deliveryId": "925967553",
+  "processStatus": 0,
+  "errorMessage": "X - Cancelled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925967553X.json
+API response:
+{
+  "executionId": "63666",
+  "deliveryId": "925967553",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925986496X.csv
+Processed payload: {
+  "executionId": "63666",
+  "deliveryId": "925986496",
+  "processStatus": 0,
+  "errorMessage": "X - Cancelled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925986496X.json
+API response:
+{
+  "executionId": "63666",
+  "deliveryId": "925986496",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926356539N.csv
+Processed payload: {
+  "executionId": "63667",
+  "deliveryId": "926356539",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926356539N.json
+API response:
+{
+  "executionId": "63667",
+  "deliveryId": "926356539",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930393S.csv
+Processed payload: {
+  "executionId": "63667",
+  "deliveryId": "925930393",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930393S.json
+API response:
+{
+  "executionId": "63667",
+  "deliveryId": "925930393",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925986496X.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "925986496",
+  "processStatus": 0,
+  "errorMessage": "X - Cancelled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925986496X.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "925986496",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926047312S.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "926047312",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926047312S.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "926047312",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926155989S.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "926155989",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926155989S.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "926155989",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925967553X.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "925967553",
+  "processStatus": 0,
+  "errorMessage": "X - Cancelled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925967553X.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "925967553",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962147B.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "925962147",
+  "processStatus": 0,
+  "errorMessage": "B - Being Picked"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962147B.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "925962147",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984766S.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "925984766",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984766S.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "925984766",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926196215S.csv
+Processed payload: {
+  "executionId": "63670",
+  "deliveryId": "926196215",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926196215S.json
+API response:
+{
+  "executionId": "63670",
+  "deliveryId": "926196215",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947134S.csv
+Processed payload: {
+  "executionId": "63671",
+  "deliveryId": "925947134",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947134S.json
+API response:
+{
+  "executionId": "63671",
+  "deliveryId": "925947134",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925947134S.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926296235N.csv
+Processed payload: {
+  "executionId": "63678",
+  "deliveryId": "926296235",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926296235N.json
+API response:
+{
+  "executionId": "63678",
+  "deliveryId": "926296235",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137599N.csv
+Processed payload: {
+  "executionId": "63678",
+  "deliveryId": "926137599",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137599N.json
+API response:
+{
+  "executionId": "63678",
+  "deliveryId": "926137599",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926068894N.csv
+Processed payload: {
+  "executionId": "63679",
+  "deliveryId": "926068894",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926068894N.json
+API response:
+{
+  "executionId": "63679",
+  "deliveryId": "926068894",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\926068894N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926158830N.csv
+Processed payload: {
+  "executionId": "63679",
+  "deliveryId": "926158830",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926158830N.json
+API response:
+{
+  "executionId": "63679",
+  "deliveryId": "926158830",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926210335N.csv
+Processed payload: {
+  "executionId": "63679",
+  "deliveryId": "926210335",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926210335N.json
+API response:
+{
+  "executionId": "63679",
+  "deliveryId": "926210335",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926324211N.csv
+Processed payload: {
+  "executionId": "63679",
+  "deliveryId": "926324211",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926324211N.json
+API response:
+{
+  "executionId": "63679",
+  "deliveryId": "926324211",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926158830N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926210335N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926324211N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925971213N.csv
+Processed payload: {
+  "executionId": "63682",
+  "deliveryId": "925971213",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925971213N.json
+API response:
+{
+  "executionId": "63682",
+  "deliveryId": "925971213",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925971213N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036912N.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926036912",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036912N.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926036912",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\926036912N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053034N.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926053034",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053034N.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926053034",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053040N.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926053040",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053040N.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926053040",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069349N.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926069349",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069349N.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926069349",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137598N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926174851N.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926174851",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926174851N.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926174851",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199966N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053051S.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926053051",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053051S.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926053051",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053053S.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926053053",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053053S.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926053053",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597S.csv
+Processed payload: {
+  "executionId": "63683",
+  "deliveryId": "926137597",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597S.json
+API response:
+{
+  "executionId": "63683",
+  "deliveryId": "926137597",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137598N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053034N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053040N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199966N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069349N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926174851N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053051S.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053053S.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597S.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182572N.csv
+Processed payload: {
+  "executionId": "63690",
+  "deliveryId": "926182572",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182572N.json
+API response:
+{
+  "executionId": "63690",
+  "deliveryId": "926182572",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926197938N.csv
+Processed payload: {
+  "executionId": "63690",
+  "deliveryId": "926197938",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926197938N.json
+API response:
+{
+  "executionId": "63690",
+  "deliveryId": "926197938",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053046N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926053046",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053046N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926053046",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\926053046N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947156N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "925947156",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947156N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "925947156",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182587N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926182587",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182587N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926182587",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053035N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926053035",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053035N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926053035",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069359N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947123N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "925947123",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947123N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "925947123",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182579N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926182579",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182579N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926182579",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086160N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926086160",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086160N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926086160",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182620N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069374N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926069374",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069374N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926069374",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053038N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926053038",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053038N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926053038",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182608N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926182608",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182608N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926182608",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926156998N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926156998",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926156998N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926156998",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259136N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926259136",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259136N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926259136",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102428N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053067N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926053067",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053067N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926053067",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926212399N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069352N.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926069352",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069352N.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926069352",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597S.csv
+Processed payload: {
+  "executionId": "63691",
+  "deliveryId": "926137597",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597S.json
+API response:
+{
+  "executionId": "63691",
+  "deliveryId": "926137597",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069359N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182620N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102428N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926212399N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199590N.csv
+Processed payload: {
+  "executionId": "63693",
+  "deliveryId": "926199590",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199590N.json
+API response:
+{
+  "executionId": "63693",
+  "deliveryId": "926199590",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\926199590N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926147753N.csv
+Processed payload: {
+  "executionId": "63693",
+  "deliveryId": "926147753",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926147753N.json
+API response:
+{
+  "executionId": "63693",
+  "deliveryId": "926147753",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102448N.csv
+Processed payload: {
+  "executionId": "63693",
+  "deliveryId": "926102448",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102448N.json
+API response:
+{
+  "executionId": "63693",
+  "deliveryId": "926102448",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926147755N.csv
+Attempt 1: File is locked, retrying...
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962147C.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926147755N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962147C.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947147N.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "925947147",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947147N.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "925947147",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144555N.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "926144555",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144555N.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "926144555",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053043N.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "926053043",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053043N.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "926053043",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144556N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984317N.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "925984317",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984317N.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "925984317",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926093472N.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "926093472",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926093472N.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "926093472",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926257939N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947134C.csv
+Processed payload: {
+  "executionId": "63698",
+  "deliveryId": "925947134",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947134C.json
+API response:
+{
+  "executionId": "63698",
+  "deliveryId": "925947134",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925947134C.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926144556N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926257939N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053064N.csv
+Processed payload: {
+  "executionId": "63710",
+  "deliveryId": "926053064",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053064N.json
+API response:
+{
+  "executionId": "63710",
+  "deliveryId": "926053064",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962172N.csv
+Processed payload: {
+  "executionId": "63710",
+  "deliveryId": "925962172",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962172N.json
+API response:
+{
+  "executionId": "63710",
+  "deliveryId": "925962172",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926100048C.csv
+Processed payload: {
+  "executionId": "63710",
+  "deliveryId": "926100048",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926100048C.json
+API response:
+{
+  "executionId": "63710",
+  "deliveryId": "926100048",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947153C.csv
+Processed payload: {
+  "executionId": "63710",
+  "deliveryId": "925947153",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947153C.json
+API response:
+{
+  "executionId": "63710",
+  "deliveryId": "925947153",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926292707N.csv
+Processed payload: {
+  "executionId": "63714",
+  "deliveryId": "926292707",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926292707N.json
+API response:
+{
+  "executionId": "63714",
+  "deliveryId": "926292707",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358869N.csv
+Processed payload: {
+  "executionId": "63715",
+  "deliveryId": "926358869",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358869N.json
+API response:
+{
+  "executionId": "63715",
+  "deliveryId": "926358869",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358871N.csv
+Processed payload: {
+  "executionId": "63715",
+  "deliveryId": "926358871",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358871N.json
+API response:
+{
+  "executionId": "63715",
+  "deliveryId": "926358871",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358873N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358872N.csv
+Processed payload: {
+  "executionId": "63715",
+  "deliveryId": "926358872",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358872N.json
+API response:
+{
+  "executionId": "63715",
+  "deliveryId": "926358872",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358868N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358870N.csv
+Processed payload: {
+  "executionId": "63715",
+  "deliveryId": "926358870",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358870N.json
+API response:
+{
+  "executionId": "63715",
+  "deliveryId": "926358870",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925859331S.csv
+Processed payload: {
+  "executionId": "63715",
+  "deliveryId": "925859331",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925859331S.json
+API response:
+{
+  "executionId": "63715",
+  "deliveryId": "925859331",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962180S.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358873N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926358868N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925962180S.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930393G.csv
+Processed payload: {
+  "executionId": "63729",
+  "deliveryId": "925930393",
+  "processStatus": 0,
+  "errorMessage": "G - Truck"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930393G.json
+API response:
+{
+  "executionId": "63729",
+  "deliveryId": "925930393",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\925930393G.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069348N.csv
+Processed payload: {
+  "executionId": "63730",
+  "deliveryId": "926069348",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069348N.json
+API response:
+{
+  "executionId": "63730",
+  "deliveryId": "926069348",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259264N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926259264",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926259264N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926259264",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926295520N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926295520",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926295520N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926295520",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926359173N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926359173",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926359173N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926359173",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926213651N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926213651",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926213651N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926213651",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094876N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926094876",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094876N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926094876",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947159N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "925947159",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925947159N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "925947159",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926275370N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926275370",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926275370N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926275370",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094873N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926094873",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094873N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926094873",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094875N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926094875",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926094875N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926094875",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281461N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281460N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926281460",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281460N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926281460",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036881N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926036881",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036881N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926036881",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930360N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "925930360",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925930360N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "925930360",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926227724N.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926227724",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926227724N.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926227724",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281459N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926073937S.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926073937",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926073937S.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926073937",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992461S.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "925992461",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992461S.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "925992461",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079626S.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926079626",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079626S.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926079626",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079628S.csv
+Processed payload: {
+  "executionId": "63733",
+  "deliveryId": "926079628",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079628S.json
+API response:
+{
+  "executionId": "63733",
+  "deliveryId": "926079628",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281461N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281459N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925859347N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "925859347",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925859347N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "925859347",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925820505N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "925820505",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925820505N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "925820505",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926159352N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926210584N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926210584",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926210584N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926210584",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086147N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926086147",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086147N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926086147",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925811546N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "925811546",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925811546N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "925811546",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926274022N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926274022",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926274022N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926274022",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925672011N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926276325N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926276325",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926276325N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926276325",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166345N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926166345",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166345N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926166345",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281687N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926281687",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926281687N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926281687",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102435N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926102435",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102435N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926102435",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053047N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926053047",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926053047N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926053047",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925628158N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "925628158",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925628158N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "925628158",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166344N.csv
+Processed payload: {
+  "executionId": "63734",
+  "deliveryId": "926166344",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166344N.json
+API response:
+{
+  "executionId": "63734",
+  "deliveryId": "926166344",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926159352N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925672011N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036908N.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926036908",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036908N.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926036908",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086137N.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926086137",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086137N.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926086137",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166387N.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926166387",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166387N.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926166387",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182603N.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926182603",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926182603N.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926182603",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102449N.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926102449",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102449N.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926102449",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926155989C.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926155989",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926155989C.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926155989",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926196215C.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926196215",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926196215C.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926196215",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926047312C.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "926047312",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926047312C.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "926047312",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984766C.csv
+Processed payload: {
+  "executionId": "63746",
+  "deliveryId": "925984766",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925984766C.json
+API response:
+{
+  "executionId": "63746",
+  "deliveryId": "925984766",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086129N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926086129",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086129N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926086129",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267930N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926267930",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267930N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926267930",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267883N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926267883",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267883N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926267883",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300989N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926300989",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300989N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926300989",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300972N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300973N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926300973",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300973N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926300973",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267904N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926267904",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267904N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926267904",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149194N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926149194",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149194N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926149194",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267938N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217598N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926217598",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217598N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926217598",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300988N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926300988",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300988N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926300988",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217567N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926217567",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217567N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926217567",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267949N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926267949",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267949N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926267949",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166367N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300971N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926300971",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300971N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926300971",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300962N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926300962",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300962N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926300962",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149163N.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926149163",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926149163N.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926149163",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597C.csv
+Processed payload: {
+  "executionId": "63748",
+  "deliveryId": "926137597",
+  "processStatus": 0,
+  "errorMessage": "C - Closed"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926137597C.json
+API response:
+{
+  "executionId": "63748",
+  "deliveryId": "926137597",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300972N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267938N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166367N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086134N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926086134",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086134N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926086134",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926261685N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926261685",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926261685N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926261685",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199966N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926199966",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199966N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926199966",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217589N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926217589",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217589N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926217589",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086118N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926148394N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926148394",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926148394N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926148394",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199974N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926199974",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926199974N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926199974",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267932N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926174851N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926174851",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926174851N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926174851",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086121N.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926086121",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086121N.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926086121",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992461B.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "925992461",
+  "processStatus": 0,
+  "errorMessage": "B - Being Picked"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992461B.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "925992461",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079628G.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926079628",
+  "processStatus": 0,
+  "errorMessage": "G - Truck"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079628G.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926079628",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926073937S.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926073937",
+  "processStatus": 0,
+  "errorMessage": "S - Scheduled"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926073937S.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926073937",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079626G.csv
+Processed payload: {
+  "executionId": "63751",
+  "deliveryId": "926079626",
+  "processStatus": 0,
+  "errorMessage": "G - Truck"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926079626G.json
+API response:
+{
+  "executionId": "63751",
+  "deliveryId": "926079626",
+  "processStatus": "1",
+  "errorMessage": "Error message sent to BWC 3PL personal."
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926086118N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267932N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069372N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926069372",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926069372N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926069372",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300996N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992469N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "925992469",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\925992469N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "925992469",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267904N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926267904",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267904N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926267904",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926225647N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926225647",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926225647N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926225647",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217594N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926217594",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217594N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926217594",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036910N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926036910",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926036910N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926036910",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166356N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267923N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926267923",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267923N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926267923",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217598N.csv
+Processed payload: {
+  "executionId": "63754",
+  "deliveryId": "926217598",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926217598N.json
+API response:
+{
+  "executionId": "63754",
+  "deliveryId": "926217598",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926300996N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166356N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926285274N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926285274",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926285274N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926285274",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926285277N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926285277",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926285277N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926285277",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267880N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926267880",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267880N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926267880",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926262088N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926262088",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926262088N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926262088",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267921N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926267921",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267921N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926267921",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267953N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926267953",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926267953N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926267953",
+  "processStatus": "1"
+}
+API call accepted for processing.
+Moved files to: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\processed
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926285273N.csv
+An error occurred while processing the file: 
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166352N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926166352",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926166352N.json
+API response:
+{
+  "executionId": "63759",
+  "deliveryId": "926166352",
+  "processStatus": "1"
+}
+API call accepted for processing.
+An error occurred while processing the file: [WinError 32] The process cannot access the file because it is being used by another process: '\\\\allen-files\\edi\\ASC\\BRAWHI-ORDER-STATUS\\926166352N.csv'
+Detected new file: \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102443N.csv
+Processed payload: {
+  "executionId": "63759",
+  "deliveryId": "926102443",
+  "processStatus": 1,
+  "errorMessage": "Unknown Status"
+}
+JSON payload saved to \\allen-files\edi\ASC\BRAWHI-ORDER-STATUS\926102443N.json
+API response:
